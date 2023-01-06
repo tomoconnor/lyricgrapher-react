@@ -1,0 +1,1 @@
+# Frontend for LyricGrapher 2.0
